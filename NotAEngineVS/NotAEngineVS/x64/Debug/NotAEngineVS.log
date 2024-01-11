@@ -1,0 +1,3 @@
+﻿  main.cpp
+SDL2main.lib(SDL_windows_main.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "SDL_main" in Funktion "main_getcmdline".
+F:\Github\NotAEngine\NotAEngineVS\x64\Debug\NotAEngineVS.exe : fatal error LNK1120: 1 nicht aufgelöste Externe
